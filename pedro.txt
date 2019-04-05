@@ -1,6 +1,5 @@
 creation pour tortoise git ggvff
-<<<<<<< HEAD
 creation conflit br1
-=======
 creation conflit
->>>>>>> master
+creation conflit 2
+
